@@ -17,21 +17,22 @@ intro:
     label: Visit Site
     link: "#tisearth.com"
 enterprise:
-  name: Enterprise
-  price: Custom
-  price_per: Reach out for a quote
-  info: Perfect for large engineering teams with BIG goals
+  name: Animis Global
+  price: ''
+  price_per: ''
+  info: We create Reality!
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - Website Development
+  - Logo Designing
+  - Social Media
+  - VoIP services
+  - Brand Marketing
+  - Loyalty Program Management
+  - CRM Strategy
   button:
     enable: true
-    label: Get started for free
-    link: "/contact"
+    label: Visit Site
+    link: http://animisglobal.com/
 base:
   name: Base
   price: "$400"
