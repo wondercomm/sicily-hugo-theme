@@ -15,7 +15,7 @@ intro:
   button:
     enable: true
     label: Visit Site
-    link: "#tisearth.com"
+    link: tisearth.com
 enterprise:
   name: Animis Global
   price: ''
