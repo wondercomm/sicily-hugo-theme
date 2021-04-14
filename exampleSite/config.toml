@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://exportcottage.com"
 disqusShortname = "sicily-hugo-theme"
 googleAnalytics = ""
 languageCode = "en-us"
@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "10"
 summaryLength = "15"
 theme = "Sicily-hugo-theme"
-title = "Sicily"
+title = "Export Cottage (Sicily)"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
