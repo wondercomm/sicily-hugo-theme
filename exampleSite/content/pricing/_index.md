@@ -34,19 +34,18 @@ enterprise:
     label: Visit Site
     link: http://animisglobal.com/
 base:
-  name: Base
-  price: "$400"
-  price_per: Billed annually
-  info: Perfect for small engineering teams
+  name: Libertate Health
+  price: ''
+  price_per: ''
+  info: Because we care!
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - Hand Sanitizers
+  - Disinfectants
+  - Protective Masks
+  - Healthy Foods
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: Visit Site
+    link: https://www.libertatehealth.com/
 
 ---
