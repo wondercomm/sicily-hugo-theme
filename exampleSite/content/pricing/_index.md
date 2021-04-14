@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Brands
 subtitle: ''
 description: This is meta description
 intro:
