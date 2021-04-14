@@ -4,8 +4,7 @@ subtitle: ''
 description: This is meta description
 intro:
   name: "'tis earth"
-  price: ''
-  price_per: ''
+  !['tis earth!](/images/tis-earth-final-logo-digital.png "'tis earth")
   info: The Earth is a fine place to live, let's keep it that way!
   services:
   - Sustainable
